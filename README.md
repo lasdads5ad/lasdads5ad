@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  liu xin yi.
 - 👀 I’m interested in singing.
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++
+  
 - 📫 How to reach me 16642233825
 
 <!---
